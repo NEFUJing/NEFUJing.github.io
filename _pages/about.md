@@ -27,19 +27,33 @@ In recent years, I have been dedicated to applying technologies such as natural 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+## 2025
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+- **Sun, Jingyun**, Zhongze Luo, and Yang Li*. "A compliance checking framework based on retrieval augmented generation." Proceedings of the 31st International Conference on Computational Linguistics. 2025. [https://aclanthology.org/2025.coling-main.178/](https://aclanthology.org/2025.coling-main.178/)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+- Xin, Dancheng, Kaiqi Zhao, **Jingyun Sun**, and Yang Li*. "Cdaˆ2: Counterfactual diffusion augmentation for cross-domain adaptation in low-resource sentiment analysis." Proceedings of the 31st International Conference on Computational Linguistics. 2025. [https://aclanthology.org/2025.coling-main.6/](https://aclanthology.org/2025.coling-main.6/)
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Lu, Yibing, **Jingyun Sun**, and Yang Li*. "Heterogeneous Graph Distillation for Stance Prediction." Expert Systems 42.6 (2025): e70058. [https://onlinelibrary.wiley.com/doi/abs/10.1111/exsy.70058](https://onlinelibrary.wiley.com/doi/abs/10.1111/exsy.70058)
+
+- **Sun, Jingyun***, and Chi Wei. "A Multi-Source Heterogeneous Knowledge Injected Prompt Learning Method for Legal Charge Prediction." Applied Soft Computing (2025): 113438. [https://www.sciencedirect.com/science/article/abs/pii/S1568494625007495](https://www.sciencedirect.com/science/article/abs/pii/S1568494625007495)
+
+## 2024
+
+- **Sun, Jingyun***, Xinlong Chen, Kaiyuan Zheng, and Yan Zan. "A Fine-grained Classification Method for Cross-domain Policy Texts Based on Instruction Tuning." Information Systems Frontiers (2024): 1-16. [https://link.springer.com/article/10.1007/s10796-024-10554-2](https://link.springer.com/article/10.1007/s10796-024-10554-2)
+
+- **Sun, Jingyun***, Shaobin Huang*, and Chi Wei*. "Chinese legal judgment prediction via knowledgeable prompt learning." Expert Systems with Applications 238 (2024): 122177. [https://www.sciencedirect.com/science/article/abs/pii/S0957417423026799](https://www.sciencedirect.com/science/article/abs/pii/S0957417423026799)
+
+- Huang, Shaobin, **Jingyun Sun**, and Rongsheng Li*. "NeuralConflict: Using neural networks to identify norm conflicts in normative documents." Expert Systems 41.6 (2024): e13035. [https://onlinelibrary.wiley.com/doi/abs/10.1111/exsy.13035](https://onlinelibrary.wiley.com/doi/abs/10.1111/exsy.13035)
+
+## 2023
+
+- **Sun, Jingyun***, Shaobin Huang, and Chi Wei. "A BERT-based deontic logic learner." Information Processing & Management 60.4 (2023): 103374. [https://www.sciencedirect.com/science/article/abs/pii/S0306457323001115](https://www.sciencedirect.com/science/article/abs/pii/S0306457323001115)
+
+- **Sun, Jingyun**, Shaobin Huang, and Rongsheng Li*. "An unsupervised policy relevance scoring method: Taking Chinese social security policies as the application case." Expert Systems 40.2 (2023): e13149. [https://onlinelibrary.wiley.com/doi/abs/10.1111/exsy.13149](https://onlinelibrary.wiley.com/doi/abs/10.1111/exsy.13149)
+
+
 </div>
 </div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 📖 Educations
 - *2018.09 - 2023.12*, Doctor of Computer Science and Technology, [Harbin Engineering University](http://www.hrbeu.edu.cn/), Harbin, China. 
