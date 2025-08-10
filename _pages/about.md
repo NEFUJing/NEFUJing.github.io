@@ -44,7 +44,7 @@ In recent years, I have been dedicated to applying technologies such as natural 
 # 📖 Educations
 - *2018.09 - 2023.12*, Doctor of Computer Science and Technology, [Harbin Engineering University](http://www.hrbeu.edu.cn/), Harbin, China. 
 
-# 💬 Projects and Fundings
+# 💬 Projects&Fundings
 In the past three years, the scientific research projects I have led or participated in include:
 
 - Construction of Policy Audit Knowledge Graph and Development of Intelligent Audit Toolset (National Engineering Laboratory Project, 700,000 yuan).
