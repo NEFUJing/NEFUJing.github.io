@@ -58,11 +58,16 @@ Welcome to click [here](https://ccec.nefu.edu.cn/info/1039/4807.htm) to visit my
 
 
 # 📖 Educations
-- *2018.09 - 2023.12*, Doctor of Computer Science and Technology, [Harbin Engineering University](http://www.hrbeu.edu.cn/), Harbin, China. 
+- *2018.09 - 2023.12*, Doctor of Computer Science and Technology, [Harbin Engineering University](http://www.hrbeu.edu.cn/), Harbin, China
 
 # 💬 Projects and Fundings
 In the past three years, the scientific research projects I have led or participated in include:
 
-- Construction of Policy Audit Knowledge Graph and Development of Intelligent Audit Toolset (National Engineering Laboratory Project, 700,000 yuan).
-- Research on Compliance Detection Method Based on Text Semantics (Special Project for Basic Scientific Research Business of Central Universities, 200,000 yuan).
+- Construction of Policy Audit Knowledge Graph and Development of Intelligent Audit Toolset (National Engineering Laboratory Project, 700,000 yuan)
+- Research on Compliance Detection Method Based on Text Semantics (Special Project for Basic Scientific Research Business of Central Universities, 200,000 yuan)
 - Tracking and Analysis of Funding Policies of Major Science Funding Institutions in 2025 (Special Project of National Natural Science Foundation of China, 300,000 yuan), etc.
+
+# 📑 Services
+- Expert Systems With Application
+- Information Processing and Management
+- 31st International Conference on Computational Linguistics (COLING 2025)
