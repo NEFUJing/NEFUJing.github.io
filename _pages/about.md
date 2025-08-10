@@ -27,11 +27,13 @@ In recent years, I have been dedicated to applying technologies such as natural 
 
 # 📝 Publications 
 
+\* Corresponding author
+
 ## 2025
 
-- **Sun, Jingyun**, Zhongze Luo, and Yang Li*. "A compliance checking framework based on retrieval augmented generation." Proceedings of the 31st International Conference on Computational Linguistics. 2025. [https://aclanthology.org/2025.coling-main.178/](https://aclanthology.org/2025.coling-main.178/)
+- **Sun, Jingyun**, Zhongze Luo, and Yang Li*. "A compliance checking framework based on retrieval augmented generation." Proceedings of the 31st International Conference on Computational Linguistics. 2025. [https://aclanthology.org/2025.coling-main.178/](https://aclanthology.org/2025.coling-main.178)
 
-- Xin, Dancheng, Kaiqi Zhao, **Jingyun Sun**, and Yang Li*. "Cdaˆ2: Counterfactual diffusion augmentation for cross-domain adaptation in low-resource sentiment analysis." Proceedings of the 31st International Conference on Computational Linguistics. 2025. [https://aclanthology.org/2025.coling-main.6/](https://aclanthology.org/2025.coling-main.6/)
+- Xin, Dancheng, Kaiqi Zhao, **Jingyun Sun**, and Yang Li*. "Cdaˆ2: Counterfactual diffusion augmentation for cross-domain adaptation in low-resource sentiment analysis." Proceedings of the 31st International Conference on Computational Linguistics. 2025. [https://aclanthology.org/2025.coling-main.6/](https://aclanthology.org/2025.coling-main.6)
 
 - Lu, Yibing, **Jingyun Sun**, and Yang Li*. "Heterogeneous Graph Distillation for Stance Prediction." Expert Systems 42.6 (2025): e70058. [https://onlinelibrary.wiley.com/doi/abs/10.1111/exsy.70058](https://onlinelibrary.wiley.com/doi/abs/10.1111/exsy.70058)
 
