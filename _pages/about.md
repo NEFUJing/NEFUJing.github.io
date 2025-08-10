@@ -21,6 +21,8 @@ I am an associate professor and master's supervisor in the Computer Science and 
 
 In recent years, I have been dedicated to applying technologies such as natural language processing, large language models, and neural networks to address practical issues in the fields of policy, law, and regulations, including text analysis, compliance detection, and question-answering systems.
 
+Welcome to click [here](https://ccec.nefu.edu.cn/info/1039/4807.htm) to visit my homepage as a Chinese teacher in the College of Computer and Control Engineering, Northeast Forestry University.
+
 # 🔥 News
 
 - *2024.03*: &nbsp;🎉🎉 I am honored to start my life as an associate professor at Northeast Forestry University!!
@@ -54,8 +56,6 @@ In recent years, I have been dedicated to applying technologies such as natural 
 - **Sun, Jingyun**, Shaobin Huang, and Rongsheng Li*. "An unsupervised policy relevance scoring method: Taking Chinese social security policies as the application case." Expert Systems 40.2 (2023): e13149. [[link]](https://onlinelibrary.wiley.com/doi/abs/10.1111/exsy.13149)
 
 
-</div>
-</div>
 
 # 📖 Educations
 - *2018.09 - 2023.12*, Doctor of Computer Science and Technology, [Harbin Engineering University](http://www.hrbeu.edu.cn/), Harbin, China. 
