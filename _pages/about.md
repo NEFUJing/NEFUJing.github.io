@@ -23,7 +23,7 @@ In recent years, I have been dedicated to applying technologies such as natural 
 
 # 🔥 News
 
-- *2024.03*: &nbsp;🎉🎉 I am very honored to start my life as an associate professor of Computer Science and Technology at Northeast Forestry University. 
+- *2024.03*: &nbsp;🎉🎉 I am honored to start my life as an associate professor at Northeast Forestry University!
 
 # 📝 Publications 
 
