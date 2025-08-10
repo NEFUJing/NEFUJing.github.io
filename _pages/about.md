@@ -25,7 +25,7 @@ Welcome to click [here](https://ccec.nefu.edu.cn/info/1039/4807.htm) to visit my
 
 # 🔥 News
 
-- *2024.03*: &nbsp;🎉🎉 I am honored to start my life as an associate professor at Northeast Forestry University!!
+- *2024.03*: &nbsp;🎉🎉 I am honored to start my life as an associate professor at Northeast Forestry University !!
 
 # 📝 Publications 
 
