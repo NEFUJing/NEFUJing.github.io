@@ -19,7 +19,7 @@ redirect_from:
 
 I am an associate professor and master's supervisor in the Computer Science and Technology major at [Northeast Forestry University](https://www.nefu.edu.cn/). The main research directions are: artificial intelligence, deep learning, natural language processing, large models, etc. Prior to this, I obtained a doctoral degree in Computer Science and Technology from [Harbin Engineering University](http://www.hrbeu.edu.cn/) in December 2023.
 
-In recent years, I have been dedicated to applying technologies such as natural language processing, large models, and neural networks to address practical issues in the fields of policy, law, and regulations, including text analysis, compliance detection, and question-answering systems.
+In recent years, I have been dedicated to applying technologies such as natural language processing, large language models, and neural networks to address practical issues in the fields of policy, law, and regulations, including text analysis, compliance detection, and question-answering systems.
 
 # 🔥 News
 
