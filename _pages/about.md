@@ -21,7 +21,7 @@ I am an associate professor and master's supervisor in the Computer Science and 
 
 In recent years, I have been dedicated to applying technologies such as natural language processing, large language models, and neural networks to address practical issues in the fields of policy, law, and regulations, including text analysis, compliance detection, and question-answering systems.
 
-Welcome to click [here](https://ccec.nefu.edu.cn/info/1039/4807.htm) to visit my homepage as a Chinese teacher in the College of Computer and Control Engineering, Northeast Forestry University.
+Welcome to click [here](https://ccec.nefu.edu.cn/info/1039/4807.htm) to visit my Chinese homepage as a teacher in the College of Computer and Control Engineering, Northeast Forestry University.
 
 # 🔥 News
 
