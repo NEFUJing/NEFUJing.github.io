@@ -27,6 +27,21 @@ Welcome to click [here](https://ccec.nefu.edu.cn/info/1039/4807.htm) to visit my
 
 - *2024.03*: &nbsp;🎉🎉 I am honored to start my life as an associate professor at Northeast Forestry University !!
 
+# 🔍 Research Spotlight
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2025</div><img src='../images/coling.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Compliance Checking Framework Based on Retrieval Augmented Generation](https://aclanthology.org/2025.coling-main.178/)
+
+**Jingyun Sun**, Zhongze Luo, Yang Li*
+
+In Proceedings of the 31st International Conference on Computational Linguistics (COLING) 2025 | **CCF B/CORE B/THCPL B**
+
+</div>
+</div>
+
+
 # 📝 Publications 
 
 \* Corresponding author
