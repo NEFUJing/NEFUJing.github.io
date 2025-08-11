@@ -36,7 +36,7 @@ Welcome to click [here](https://ccec.nefu.edu.cn/info/1039/4807.htm) to visit my
 
 **Jingyun Sun**, Zhongze Luo, Yang Li*
 
-- We propose a compliance checking framework based on Retrieval-Augmented Generation (RAG). This framework includes a static layer for storing factual knowledge, a dynamic layer for storing regulatory and business process information, and a computational layer for retrieval and reasoning. We employ an eventic graph to structurally describe regulatory information as we recognize that the knowledge in regulatory documents is centered not on entities but on actions and states. We conducted experiments on Chinese and English compliance checking datasets. The results demonstrate that our framework consistently achieves state-of-the-art results across various scenarios, surpassing other baselines.
+- We propose a compliance checking framework based on Retrieval-Augmented Generation (RAG). This framework includes a static layer for storing factual knowledge, a dynamic layer for storing regulatory and business process information, and a computational layer for retrieval and reasoning. We employ an eventic graph to structurally describe regulatory information as we recognize that the knowledge in regulatory documents is centered not on entities but on actions and states. We conducted experiments on Chinese and English compliance checking datasets.
 
 </div>
 </div>
@@ -48,7 +48,7 @@ Welcome to click [here](https://ccec.nefu.edu.cn/info/1039/4807.htm) to visit my
 
 **Sun, Jingyun***, Shaobin Huang*, and Chi Wei*
 
-- The method aligns the Chinese LJP task with the pre-training task of a Pre-trained Language Model (PLM) via a prompt template to stimulate the PLM’s recall of learned knowledge. In addition, the well-designed prompt template can enhance the PLM’s understanding of the Chinese LJP task. We also use an external knowledge base to extract keyword information from the Chinese case description texts and incorporate it into the prompt template, thus enhancing the guidance of the prompt template to the PLM. Experimental results on CAIL2018, a high-quality Chinese LJP competition dataset, show that KnowPrompt4LJP achieves far better results than the baselines in zero-shot, few-shot, and full-size training data scenarios. KnowPrompt4LJP can achieve a macro F1 value of 0.70 in the low-resource scenario, which is comparable to the baselines’ results in the data-rich scenario. In the scenario of using full-size training data, KnowPrompt4LJP can achieve a macro F1 value of 0.81.
+- The method aligns the Chinese LJP task with the pre-training task of a Pre-trained Language Model (PLM) via a prompt template to stimulate the PLM’s recall of learned knowledge. In addition, the well-designed prompt template can enhance the PLM’s understanding of the Chinese LJP task. We also use an external knowledge base to extract keyword information from the Chinese case description texts and incorporate it into the prompt template, thus enhancing the guidance of the prompt template to the PLM. Experimental results on CAIL2018, a high-quality Chinese LJP competition dataset, show that KnowPrompt4LJP achieves far better results than the baselines in zero-shot, few-shot, and full-size training data scenarios.
 
 </div>
 </div>
