@@ -36,7 +36,7 @@ Welcome to click [here](https://ccec.nefu.edu.cn/info/1039/4807.htm) to visit my
 
 **Jingyun Sun**, Zhongze Luo, Yang Li*
 
-In Proceedings of the 31st International Conference on Computational Linguistics (COLING) 2025 | **CCF B/CORE B/THCPL B**
+- The text-based compliance checking aims to verify whether a company’s business processes comply with laws, regulations, and industry standards using NLP techniques. Existing methods can be divided into two categories: Logic-based methods offer the advantage of precise and reliable reasoning processes but lack flexibility. Semantic embedding methods are more generalizable; however, they may lose structured information and lack logical coherence. To combine the strengths of both approaches, we propose a compliance checking framework based on Retrieval-Augmented Generation (RAG). This framework includes a static layer for storing factual knowledge, a dynamic layer for storing regulatory and business process information, and a computational layer for retrieval and reasoning. We employ an eventic graph to structurally describe regulatory information as we recognize that the knowledge in regulatory documents is centered not on entities but on actions and states. We conducted experiments on Chinese and English compliance checking datasets. The results demonstrate that our framework consistently achieves state-of-the-art results across various scenarios, surpassing other baselines.
 
 </div>
 </div>
