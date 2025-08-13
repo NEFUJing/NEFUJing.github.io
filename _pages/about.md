@@ -41,7 +41,7 @@ Welcome to click [here](https://ccec.nefu.edu.cn/info/1039/4807.htm) to visit my
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA 2024</div><img src='../images/asc.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASC 2025</div><img src='../images/asc.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Multi-Source Heterogeneous Knowledge Injected Prompt Learning Method for Legal Charge Prediction](https://www.sciencedirect.com/science/article/abs/pii/S1568494625007495)
