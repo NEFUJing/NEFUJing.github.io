@@ -17,15 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an associate professor and master's supervisor in the Computer Science and Technology major at [Northeast Forestry University](https://www.nefu.edu.cn/). The main research directions are: artificial intelligence, deep learning, natural language processing, large models, etc. Prior to this, I obtained a doctoral degree in Computer Science and Technology from [Harbin Engineering University](http://www.hrbeu.edu.cn/) in December 2023.
+I am an Associate Professor and master's supervisor in the Computer Science and Technology major at [Northeast Forestry University](https://www.nefu.edu.cn/). The main research directions are: artificial intelligence, deep learning, natural language processing, large models, etc. Prior to this, I obtained a doctoral degree in Computer Science and Technology from [Harbin Engineering University](http://www.hrbeu.edu.cn/) in December 2023.
 
-In recent years, I have been dedicated to applying technologies such as natural language processing, large language models, and neural networks to address practical issues in the fields of policy, law, and regulations, including text analysis, compliance detection, and question-answering systems.
-
-Welcome to click [here](https://ccec.nefu.edu.cn/info/1039/4807.htm) to visit my Chinese homepage as a teacher in the College of Computer and Control Engineering, Northeast Forestry University.
+In recent years, I have been dedicated to applying technologies such as natural language processing, large language models, and neural networks to address practical issues in the fields of policy, law, and regulations, including text analysis, compliance detection, and question-answering systems. Welcome to click [here](https://ccec.nefu.edu.cn/info/1039/4807.htm) to visit my Chinese homepage as a teacher in the College of Computer and Control Engineering, Northeast Forestry University.
 
 # 🔥 News
 
-- *2024.03*: &nbsp;🎉🎉 I am honored to start my life as an associate professor at Northeast Forestry University !!
+- *2024.03*: &nbsp;🎉🎉 I am honored to start my life as an Associate Professor at **Northeast Forestry University**!
 
 # 🔍 Research Spotlight
 
