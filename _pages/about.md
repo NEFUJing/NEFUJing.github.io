@@ -94,6 +94,9 @@ In the past three years, the scientific research projects I have led or particip
 - Tracking and Analysis of Funding Policies of Major Science Funding Institutions in 2025 (Special Project of National Natural Science Foundation of China, 300,000 yuan), etc.
 
 # 📑 Services
-- Expert Systems With Application
-- Information Processing and Management
-- 31st International Conference on Computational Linguistics (COLING 2025)
+- Invited reviewer for high-level journals and conferences such as *Expert Systems with Applications*, *Information Processing and Management* and *International Conference on Computational Linguistics (COLING)*.
+- Academic committee member of  the CCF Youth Computer Science and Technology Forum.
+- Invited expert of the Heilongjiang Province Service Trade Association.
+
+</div>
+</div>
