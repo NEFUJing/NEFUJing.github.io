@@ -57,27 +57,27 @@ In recent years, I have been dedicated to applying technologies such as natural 
 
 ## 2025
 
-- **Sun, Jingyun**, Zhongze Luo, and Yang Li*. "A compliance checking framework based on retrieval augmented generation." Proceedings of the 31st International Conference on Computational Linguistics. 2025. <font color="#660000">(CCF-B, Top Conference)</font> [[link]](https://aclanthology.org/2025.coling-main.178)
+- **Sun, Jingyun**, Zhongze Luo, and Yang Li*. "A compliance checking framework based on retrieval augmented generation." Proceedings of the 31st International Conference on Computational Linguistics. 2025. [[link]](https://aclanthology.org/2025.coling-main.178) <font color="#660000">**[CCF-B, Top Conference]**</font>
 
-- Xin, Dancheng, Kaiqi Zhao, **Jingyun Sun**, and Yang Li*. "Cdaˆ2: Counterfactual diffusion augmentation for cross-domain adaptation in low-resource sentiment analysis." Proceedings of the 31st International Conference on Computational Linguistics. 2025. [[link]](https://aclanthology.org/2025.coling-main.6)
+- Xin, Dancheng, Kaiqi Zhao, **Jingyun Sun**, and Yang Li*. "Cdaˆ2: Counterfactual diffusion augmentation for cross-domain adaptation in low-resource sentiment analysis." Proceedings of the 31st International Conference on Computational Linguistics. 2025. [[link]](https://aclanthology.org/2025.coling-main.6) <font color="#660000">**[CCF-B, Top Conference]**</font>
 
-- Lu, Yibing, **Jingyun Sun**, and Yang Li*. "Heterogeneous Graph Distillation for Stance Prediction." Expert Systems 42.6 (2025): e70058. [[link]](https://onlinelibrary.wiley.com/doi/abs/10.1111/exsy.70058)
+- Lu, Yibing, **Jingyun Sun**, and Yang Li*. "Heterogeneous Graph Distillation for Stance Prediction." Expert Systems 42.6 (2025): e70058. [[link]](https://onlinelibrary.wiley.com/doi/abs/10.1111/exsy.70058) <font color="#660000">**[CCF-C, JCR Q2]**</font>
 
-- **Sun, Jingyun***, and Chi Wei. "A Multi-Source Heterogeneous Knowledge Injected Prompt Learning Method for Legal Charge Prediction." Applied Soft Computing (2025): 113438. [[link]](https://www.sciencedirect.com/science/article/abs/pii/S1568494625007495)
+- **Sun, Jingyun***, and Chi Wei. "A Multi-Source Heterogeneous Knowledge Injected Prompt Learning Method for Legal Charge Prediction." Applied Soft Computing (2025): 113438. [[link]](https://www.sciencedirect.com/science/article/abs/pii/S1568494625007495) <font color="#660000">**[JCR Q1, IF=6.6]**</font>
 
 ## 2024
 
-- **Sun, Jingyun***, Xinlong Chen, Kaiyuan Zheng, and Yan Zan. "A Fine-grained Classification Method for Cross-domain Policy Texts Based on Instruction Tuning." Information Systems Frontiers (2024): 1-16. [[link]](https://link.springer.com/article/10.1007/s10796-024-10554-2)
+- **Sun, Jingyun***, Xinlong Chen, Kaiyuan Zheng, and Yan Zan. "A Fine-grained Classification Method for Cross-domain Policy Texts Based on Instruction Tuning." Information Systems Frontiers (2024): 1-16. [[link]](https://link.springer.com/article/10.1007/s10796-024-10554-2) <font color="#660000">**[JCR Q1, IF=8.3]**</font>
 
-- **Sun, Jingyun***, Shaobin Huang*, and Chi Wei*. "Chinese legal judgment prediction via knowledgeable prompt learning." Expert Systems with Applications 238 (2024): 122177. [[link]](https://www.sciencedirect.com/science/article/abs/pii/S0957417423026799)
+- **Sun, Jingyun***, Shaobin Huang*, and Chi Wei*. "Chinese legal judgment prediction via knowledgeable prompt learning." Expert Systems with Applications 238 (2024): 122177. [[link]](https://www.sciencedirect.com/science/article/abs/pii/S0957417423026799) <font color="#660000">**[CCF-C, JCR Q1]**</font>
 
-- Huang, Shaobin, **Jingyun Sun**, and Rongsheng Li*. "NeuralConflict: Using neural networks to identify norm conflicts in normative documents." Expert Systems 41.6 (2024): e13035. [[link]](https://onlinelibrary.wiley.com/doi/abs/10.1111/exsy.13035)
+- Huang, Shaobin, **Jingyun Sun**, and Rongsheng Li*. "NeuralConflict: Using neural networks to identify norm conflicts in normative documents." Expert Systems 41.6 (2024): e13035. [[link]](https://onlinelibrary.wiley.com/doi/abs/10.1111/exsy.13035) <font color="#660000">**[CCF-C, JCR Q2]**</font>
 
 ## 2023
 
-- **Sun, Jingyun***, Shaobin Huang, and Chi Wei. "A BERT-based deontic logic learner." Information Processing & Management 60.4 (2023): 103374. [[link]](https://www.sciencedirect.com/science/article/abs/pii/S0306457323001115)
+- **Sun, Jingyun***, Shaobin Huang, and Chi Wei. "A BERT-based deontic logic learner." Information Processing & Management 60.4 (2023): 103374. [[link]](https://www.sciencedirect.com/science/article/abs/pii/S0306457323001115) <font color="#660000">**[CCF-B, JCR Q1]**</font>
 
-- **Sun, Jingyun**, Shaobin Huang, and Rongsheng Li*. "An unsupervised policy relevance scoring method: Taking Chinese social security policies as the application case." Expert Systems 40.2 (2023): e13149. [[link]](https://onlinelibrary.wiley.com/doi/abs/10.1111/exsy.13149)
+- **Sun, Jingyun**, Shaobin Huang, and Rongsheng Li*. "An unsupervised policy relevance scoring method: Taking Chinese social security policies as the application case." Expert Systems 40.2 (2023): e13149. [[link]](https://onlinelibrary.wiley.com/doi/abs/10.1111/exsy.13149) <font color="#660000">**[CCF-C, JCR-Q2]**</font>
 
 
 
