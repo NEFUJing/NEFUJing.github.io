@@ -59,7 +59,7 @@ Welcome to click [here](https://ccec.nefu.edu.cn/info/1039/4807.htm) to visit my
 
 ## 2025
 
-- **Sun, Jingyun**, Zhongze Luo, and Yang Li*. "A compliance checking framework based on retrieval augmented generation." Proceedings of the 31st International Conference on Computational Linguistics. 2025. [[link]](https://aclanthology.org/2025.coling-main.178)
+- **Sun, Jingyun**, Zhongze Luo, and Yang Li*. "A compliance checking framework based on retrieval augmented generation." Proceedings of the 31st International Conference on Computational Linguistics. 2025. <font color="#660000">(CCF-B, Top Conference)</font> [[link]](https://aclanthology.org/2025.coling-main.178)
 
 - Xin, Dancheng, Kaiqi Zhao, **Jingyun Sun**, and Yang Li*. "Cdaˆ2: Counterfactual diffusion augmentation for cross-domain adaptation in low-resource sentiment analysis." Proceedings of the 31st International Conference on Computational Linguistics. 2025. [[link]](https://aclanthology.org/2025.coling-main.6)
 
