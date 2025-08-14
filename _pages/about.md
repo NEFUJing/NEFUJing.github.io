@@ -98,5 +98,3 @@ In the past three years, the scientific research projects I have led or particip
 - Academic committee member of  the CCF Youth Computer Science and Technology Forum.
 - Invited expert of the Heilongjiang Province Service Trade Association.
 
-</div>
-</div>
