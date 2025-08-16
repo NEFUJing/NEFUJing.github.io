@@ -23,6 +23,8 @@ In recent years, I have been dedicated to applying technologies such as natural 
 
 # 🔥 News
 
+- *2025.08*: &nbsp;🎉🎉 I am honored to visit **The University of Auckland** in New Zealand for an exchange program.
+- *2025.07*  &nbsp;🎉🎉 I am honored to participate in the AMEG international teaching training in **Melbourne**, Australia.
 - *2024.03*: &nbsp;🎉🎉 I am honored to start my life as an Associate Professor at **Northeast Forestry University**!
 
 # 🔍 Research Spotlight
@@ -87,9 +89,9 @@ In recent years, I have been dedicated to applying technologies such as natural 
 # 💬 Projects and Fundings
 In the past three years, the scientific research projects I have led or participated in include:
 
-- Construction of Policy Audit Knowledge Graph and Development of Intelligent Audit Toolset (National Engineering Laboratory Project, 700,000 yuan)
-- Research on Compliance Detection Method Based on Text Semantics (Special Project for Basic Scientific Research Business of Central Universities, 200,000 yuan)
-- Tracking and Analysis of Funding Policies of Major Science Funding Institutions in 2025 (Special Project of National Natural Science Foundation of China, 300,000 yuan), etc.
+- Construction of Policy Audit Knowledge Graph and Development of Intelligent Audit Toolset (National Engineering Laboratory Project);
+- Research on Compliance Detection Method Based on Text Semantics (Special Project for Basic Scientific Research Business of Central Universities);
+- Tracking and Analysis of Science Funding Policies (Special Project of National Natural Science Foundation of China), etc.
 
 # 📑 Services
 - Invited reviewer for high-level journals and conferences such as *Expert Systems with Applications*, *Information Processing and Management* and *International Conference on Computational Linguistics (COLING)*.
