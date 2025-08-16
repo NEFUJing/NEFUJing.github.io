@@ -24,7 +24,7 @@ In recent years, I have been dedicated to applying technologies such as natural 
 # 🔥 News
 
 - *2025.08*: &nbsp;🎉🎉 I am honored to visit **The University of Auckland** in New Zealand for an exchange program.
-- *2025.07*  &nbsp;🎉🎉 I am honored to participate in the AMEG international teaching training in **Melbourne**, Australia.
+- *2025.07*: &nbsp;🎉🎉 I am honored to participate in the AMEG international teaching training in **Melbourne**, Australia.
 - *2024.03*: &nbsp;🎉🎉 I am honored to start my life as an Associate Professor at **Northeast Forestry University**!
 
 # 🔍 Research Spotlight
