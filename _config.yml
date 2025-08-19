@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jingyun Sun (孙敬云)"
+  name             : "Jingyun Sun"
   avatar           : "assets/sunjingyun.jpg"
   bio              : "Northeast Forestry University"
   location         : "Harbin, China"
