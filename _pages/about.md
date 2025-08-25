@@ -53,7 +53,7 @@ In recent years, I have been dedicated to applying technologies such as natural 
 </div>
 </div>
 
-# 📝 Publications 
+# 📝 Main Publications 
 
 \* Corresponding author
 
