@@ -59,6 +59,8 @@ In recent years, I have been dedicated to applying technologies such as natural 
 
 ## 2025
 
+- Xiao Han, **Jingyun Sun**, Songhua Yu, Libo Qin, Hui Luo, Yang Li*. "CommentAgent: a LLM-powered agent framework for automated comment generation and opinion understanding." The Journal of Supercomputing. 2025. [[link]](https://link.springer.com/article/10.1007/s11227-025-07957-6) <font color="#660000">[JCR Q2, IF=2.7]</font>
+
 - **Sun, Jingyun**, Zhongze Luo, and Yang Li*. "A compliance checking framework based on retrieval augmented generation." Proceedings of the 31st International Conference on Computational Linguistics. 2025. [[link]](https://aclanthology.org/2025.coling-main.178) <font color="#660000">[CCF-B, Top Conference]</font>
 
 - Xin, Dancheng, Kaiqi Zhao, **Jingyun Sun**, and Yang Li*. "Cdaˆ2: Counterfactual diffusion augmentation for cross-domain adaptation in low-resource sentiment analysis." Proceedings of the 31st International Conference on Computational Linguistics. 2025. [[link]](https://aclanthology.org/2025.coling-main.6) <font color="#660000">[CCF-B, Top Conference]</font>
