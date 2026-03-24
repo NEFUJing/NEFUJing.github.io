@@ -57,6 +57,9 @@ In recent years, I have been dedicated to applying technologies such as natural 
 
 \* Corresponding author
 
+## 2026
+- Wenxi Sheng, Chi Wei, Yinuo Zhang., Bowen Zhang, **Jingyun Sun***. A Dynamic Prompt-Based Logic-Aided Compliance Checker. Big Data and Cognitive Computing. 2026; 10(3):95. [[link]](https://doi.org/10.3390/bdcc10030095) <font color="#660000">[JCR Q1, IF=4.4]</font>
+
 ## 2025
 
 - **Jingyun Sun** and Zhongze Luo*, "ForPKG: A Framework for Constructing Forestry Policy Knowledge Graph and Application Analysis," 2025 International Joint Conference on Neural Networks (IJCNN), Rome, Italy, 2025, pp. 1-8, [[link]](https://ieeexplore.ieee.org/document/11228178) <font color="#660000">[CCF-C, Top Conference]</font>
