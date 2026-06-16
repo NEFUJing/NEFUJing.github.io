@@ -27,37 +27,14 @@ In recent years, I have been dedicated to applying technologies such as natural 
 - *2025.07*: &nbsp;🎉🎉 I am honored to participate in the AEMG international teaching training in **Melbourne**, Australia.
 - *2024.03*: &nbsp;🎉🎉 I am honored to start my life as an Associate Professor at **Northeast Forestry University**!
 
-# 🔍 Research Spotlight
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2025</div><img src='../images/coling.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[A Compliance Checking Framework Based on Retrieval Augmented Generation](https://aclanthology.org/2025.coling-main.178/)
-
-**Sun, Jingyun**, Zhongze Luo, Yang Li*
-
-- We propose a compliance checking framework based on Retrieval-Augmented Generation (RAG). This framework includes a static layer for storing factual knowledge, a dynamic layer for storing regulatory and business process information, and a computational layer for retrieval and reasoning. We employ an eventic graph to structurally describe regulatory information as we recognize that the knowledge in regulatory documents is centered not on entities but on actions and states. We conducted experiments on Chinese and English compliance checking datasets.
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASC 2025</div><img src='../images/asc.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[A Multi-Source Heterogeneous Knowledge Injected Prompt Learning Method for Legal Charge Prediction](https://www.sciencedirect.com/science/article/abs/pii/S1568494625007495)
-
-**Sun, Jingyun***, Chi Wei
-
-- We propose a prompt learning framework-based method that simultaneously leverages multi-source heterogeneous external legal knowledge. Specifically, we match knowledge snippets in case descriptions via the legal knowledge base and encapsulate them into the input through a hard prompt template. Additionally, we retrieve legal articles related to the given case description through contrastive learning, and then obtain factual elements through a conversational Large Language Model (LLM). We fuse the embedding vectors of soft prompt tokens with the encoding vector of factual elements to achieve knowledge-enhanced model forward inference.
-
-</div>
-</div>
-
 # 📝 Main Publications 
 
 \* Corresponding author
 
 ## 2026
+
+- Jingyun Sun, Jiaming Tian, Jie Shi, Yinuo Zhang, Wenxi Sheng, & Yang Li. GLEAR: A Graph Logic-Enhanced RAG Framework for Legal QA. In Proc. of the 25th International Conference on Autonomous Agents and Multiagent Systems. 2025 May (pp. 3069-3077).
+
 - Wenxi Sheng, Chi Wei, Yinuo Zhang, Bowen Zhang, **Jingyun Sun***. A Dynamic Prompt-Based Logic-Aided Compliance Checker. Big Data and Cognitive Computing. 2026; 10(3):95. [[link]](https://doi.org/10.3390/bdcc10030095) <font color="#660000">[JCR Q1, IF=4.4]</font>
 
 ## 2025
