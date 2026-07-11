@@ -33,7 +33,9 @@ In recent years, I have been dedicated to applying technologies such as natural 
 
 ## 2026
 
-- **Jingyun Sun**, Jiaming Tian, Jie Shi, Yinuo Zhang, Wenxi Sheng, & Yang Li. GLEAR: A Graph Logic-Enhanced RAG Framework for Legal QA. In Proc. of the 25th International Conference on Autonomous Agents and Multiagent Systems. 2025 May (pp. 3069-3077).
+- Kaixin Yang, **Jingyun Sun***, Zhenxing Wang, Chang Xu. COLLT: A Multi-Task Optimization Framework for Clarification-Oriented Tool Learning in Legal Large Language Models. Mathematics. 2026; 14(11):1891. <font color="#660000">[JCR Q1, IF=2.3]</font>
+
+- **Jingyun Sun**, Jiaming Tian, Jie Shi, Yinuo Zhang, Wenxi Sheng, & Yang Li. GLEAR: A Graph Logic-Enhanced RAG Framework for Legal QA. In Proc. of the 25th International Conference on Autonomous Agents and Multiagent Systems. 2026 May (pp. 3069-3077). <font color="#660000">[CCF-B, Top-Conference]</font>
 
 - Wenxi Sheng, Chi Wei, Yinuo Zhang, Bowen Zhang, **Jingyun Sun***. A Dynamic Prompt-Based Logic-Aided Compliance Checker. Big Data and Cognitive Computing. 2026; 10(3):95. [[link]](https://doi.org/10.3390/bdcc10030095) <font color="#660000">[JCR Q1, IF=4.4]</font>
 
