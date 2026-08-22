@@ -33,6 +33,8 @@ In recent years, I have been dedicated to applying technologies such as natural 
 
 ## 2026
 
+- Sicheng Tian, Bing Liu, Yang Li, **Jingyun Sun**, Yunhe Xie. RevMed: A Two-Stage Reverse Dictionary Model for Medical Domain. Information Processing & Management. 2027; Volume 64, Issue 1, Part B. <font color="#660000">[CCF-B, JCR Q1, IF=8.1]</font>
+
 - Kaixin Yang, **Jingyun Sun***, Zhenxing Wang, Chang Xu. COLLT: A Multi-Task Optimization Framework for Clarification-Oriented Tool Learning in Legal Large Language Models. Mathematics. 2026; 14(11):1891. <font color="#660000">[JCR Q1, IF=2.3]</font>
 
 - **Jingyun Sun**, Jiaming Tian, Jie Shi, Yinuo Zhang, Wenxi Sheng, & Yang Li. GLEAR: A Graph Logic-Enhanced RAG Framework for Legal QA. In Proc. of the 25th International Conference on Autonomous Agents and Multiagent Systems. 2026 May (pp. 3069-3077). <font color="#660000">[CCF-B, Top-Conference]</font>
